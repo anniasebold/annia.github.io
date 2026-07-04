@@ -1,4 +1,4 @@
-my undergraduate final project (TCC) at the Federal University of Mato Grosso do Sul (UFMS):
+My undergraduate final project (TCC) at the Federal University of Mato Grosso do Sul (UFMS):
 **"Perspectives on the Development of Conversational Assistants with LLMs: A Case Study"**.
 
 ## about the project
@@ -25,3 +25,4 @@ infrastructure at every experiment — which is exactly the kind of automation w
 
 the complete document (in portuguese) is available at the UFMS repository:
 [repositorio.ufms.br — full thesis PDF](https://repositorio.ufms.br/retrieve/a8d0cdeb-1366-429e-9158-9374162e692c/24028.pdf)
+*i'm working on an english version*
