@@ -57,4 +57,4 @@ git push -u origin main
 3. The site goes live at `https://anniasebold.github.io` (Settings → Pages should
    already show "Deploy from branch: main" by default).
 
-Only people with push access to the repo (you) can publish anything.
+Only people with push access to the repo can publish anything.
